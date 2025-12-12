@@ -4,8 +4,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Pursuing a Bachelor's degree in Information Systems at the Federal University of Santa Catarina (UFSC).
-- 💼 Currently working as a Full Stack Developer at Lagoasoft.
-- 🌱 Currently learning more about Laravel, Java (Spring Boot) and Nest.js.
+- 💼 Currently working as a Full Stack Developer at Dealmerge.
 
 ## My Skills
 
