@@ -4,7 +4,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Pursuing a Bachelor's degree in Information Systems at the Federal University of Santa Catarina (UFSC).
-- 💼 Currently working as a Full Stack Developer at Dealmerge.
+- 💼 Currently working as a Full Stack Developer at DealMerge.
 
 ## My Skills
 
