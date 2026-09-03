@@ -1,60 +1,73 @@
-![Profile Views](https://komarev.com/ghpvc/?username=eduuk15&color=006bed)
+<h1 align="center">Eduardo Knopp</h1>
 
-## About Me
+<p align="center">
+  <b>Full Stack Software Developer</b> · backend-leaning<br/>
+  TypeScript · Node.js · Next.js · PostgreSQL · LLM integrations<br/>
+  <sub>Florianópolis, Brazil · Open to remote work worldwide</sub>
+</p>
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Pursuing a Bachelor's degree in Information Systems at the Federal University of Santa Catarina (UFSC).
-- 💼 Currently working as a Full Stack Developer at DealMerge.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardoknopp&label=profile%20views&color=1a1a1a&style=flat&abbreviated=true" alt="Profile views"/>
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/eduardo-knopp"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:eduardo.knopp.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/eduardoknopp"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+</p>
 
-## My Skills
+---
 
-**Applications and Data**
+### About
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+Full Stack Developer with **4+ years** shipping production web applications end to end, strongest on the backend. I design type-safe APIs over PostgreSQL and build the parts that are usually hardest to get right: background job processing, realtime features, hybrid search, SSO authentication and LLM-powered features.
 
-**Utilities**
+**Current role** — Full Stack Developer at DealMerge (New York, remote), building an AI-powered CRM for commercial real estate.
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**Education** — Bachelor of Information Systems, Federal University of Santa Catarina (UFSC), 8th semester, expected 2027.
 
-**DevOps**
+**Focus** — RAG, AI agents with tool-calling and vector/hybrid search applied to production systems.
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+**Languages** — Portuguese (native), English (advanced, professional working proficiency).
 
-**Development Tools**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-731FDC?style=flat&logo=phpstorm)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
-![PyCharm](https://img.shields.io/badge/-PyCharm-31A8FF?style=flat&logo=pycharm)
-![DataGrip](https://img.shields.io/badge/-DataGrip-15A97B?style=flat&logo=datagrip)
-![DBeaver](https://img.shields.io/badge/-DBeaver-37246B?style=flat&logo=dbeaver)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
+### Tech Stack
 
-<br/>
+|  |  |
+| :-- | :-- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,java" height="36" alt="TypeScript, JavaScript, PHP, Java"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,graphql,symfony" height="36" alt="Node.js, GraphQL, Symfony"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" height="36" alt="React, Next.js, Vue.js, HTML, CSS"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="36" alt="PostgreSQL, MySQL, MongoDB"/> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,supabase,docker,git" height="36" alt="AWS, GCP, Vercel, Supabase, Docker, Git"/> |
 
-<a href="https://github.com/eduardoknopp" title="Eduardo's GitHub Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoknopp&theme=dracula&show_icons=true" />
-</a>
+**Also working with** — tRPC · Drizzle ORM · Typesense · Neon · Trigger.dev · Ably · WorkOS · Stripe · MariaDB
 
-## Where to Find Me
+**AI & Data** — LLM integration · retrieval-augmented generation (RAG) · AI agents with tool-calling · vector and hybrid search · ETL pipelines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--knopp-blue?style=flat-square)](https://www.linkedin.com/in/eduardo-knopp)
-[![Gmail Badge](https://img.shields.io/badge/-eduardo.knopp.dev@gmail.com-006bed?style=flat-square&logo=Gmail&link=mailto:eduardo.knopp.dev@gmail.com)](mailto:eduardo.knopp.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/eduardoknopp?label=follow&style=social)](https://github.com/eduardoknopp)
+---
 
+### What I've Built
+
+| Where | What |
+|---|---|
+| **DealMerge** · New York (remote) | AI-powered CRM and deal-management platform for commercial real estate — deal pipeline, lead matching engine, cash-flow forecasting, background jobs, realtime updates, hybrid keyword + vector search, Google/Microsoft Calendar, Stripe billing, SSO, and an AI agent with tool-calling and human approval flows over RAG. |
+| **Cadastra** · São Paulo (remote) | *Astra*: multiple LLMs behind a single interface with RAG plus video, image and code generation. Also built *Cadastra Spaces*, a workspace booking system integrated with Google Calendar resources. |
+| **Lagoasoft** · Florianópolis | Technical lead of an ETL-Tool web application for a client in Mannheim, Germany, plus an internal API repository reused across client projects. |
+| **AlugaMais** · Passo Fundo (remote) | Credit analysis module of an enterprise management system, including Serasa and other third-party integrations. |
+| **Conectra** · Rio do Sul | Web ERP covering invoicing, accounts, contracts and budgeting; optimized queries and search on high-volume tables. |
+
+---
+
+<p align="center">
+  <sub>Open to backend and full stack roles — remote or Florianópolis.<br/>
+  <a href="mailto:eduardo.knopp.dev@gmail.com">eduardo.knopp.dev@gmail.com</a> · <a href="https://www.linkedin.com/in/eduardo-knopp">linkedin.com/in/eduardo-knopp</a></sub>
+</p>
+
+### GitHub Metrics
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics"/>
+</p>
