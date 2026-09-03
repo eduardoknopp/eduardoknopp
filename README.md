@@ -70,4 +70,5 @@ Full Stack Developer with **4+ years** shipping production web applications end 
 
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics"/>
+  <img src="./metrics.languages.svg" alt="Most used languages"/>
 </p>
