@@ -37,17 +37,3 @@ jobs:
 
           # Linhas de código adicionadas e removidas
           plugin_lines: yes
-
-      # Card separado só de linguagens, para exibir ao lado do card principal
-      - name: Generate languages card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.languages.svg
-          user: eduardoknopp
-          base: ""
-          config_timezone: America/Sao_Paulo
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
