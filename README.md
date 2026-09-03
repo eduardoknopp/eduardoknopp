@@ -23,7 +23,7 @@
 
 Full Stack Developer with **4+ years** shipping production web applications end to end, strongest on the backend. I design type-safe APIs over PostgreSQL and build the parts that are usually hardest to get right: background job processing, realtime features, hybrid search, SSO authentication and LLM-powered features.
 
-**Current role** — Full Stack Developer at DealMerge (New York, remote), building an AI-powered CRM for commercial real estate.
+**Last role** — Full Stack Developer at DealMerge (New York, remote), building an AI-powered CRM for commercial real estate.
 
 **Education** — Bachelor of Information Systems, Federal University of Santa Catarina (UFSC), 8th semester, expected 2027.
 
